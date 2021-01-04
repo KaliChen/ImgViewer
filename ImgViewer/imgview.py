@@ -13,8 +13,8 @@ import numpy as np
 from PIL.ExifTags import TAGS
 
 class ImageViewer():
-    CANVAS_WIDTH = 530
-    CANVAS_HEIGHT = 360
+    CANVAS_WIDTH = 480
+    CANVAS_HEIGHT = 320
     #IMG_SIZE = (480,640)
     #3.1)
     def __init__(self, master):
